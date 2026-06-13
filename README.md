@@ -1,1 +1,2 @@
 #Price Calc
+test modyfikacji
